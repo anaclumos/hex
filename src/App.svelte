@@ -16,8 +16,13 @@
   main {
     text-align: center;
     padding: 1em;
-    margin: 0 auto;
+    margin: 5rem auto;
   }
+  :global(body) {
+    background-color: #000;
+    color: #bfc2c7;
+  }
+
   h1 {
     font-size: 4rem;
     font-weight: 400;

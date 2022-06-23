@@ -40,7 +40,7 @@
     font-family: inherit;
     font-size: inherit;
     padding: 1em 2em;
-    background-color: rgba(255, 62, 0, 0.1);
+    background-color: #bfc2c7;
     border-radius: 2em;
     border: 2px solid rgba(255, 62, 0, 0);
     outline: none;

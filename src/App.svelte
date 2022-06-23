@@ -3,7 +3,7 @@
 </script>
 
 <main>
-  <h1>Random Hex Generator</h1>
+  <h1>HEX</h1>
   <HexPicker />
 </main>
 

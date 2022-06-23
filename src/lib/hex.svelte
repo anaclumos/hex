@@ -1,5 +1,5 @@
 <script lang="ts">
-  let color = 'Ready'
+  let color = 'GO!'
   const availableHex = '0123456789ABCDEF'
   const hexLength = 6
   const getRandomHex = () => {

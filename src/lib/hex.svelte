@@ -37,7 +37,8 @@
 
 <style>
   button {
-    font-family: inherit;
+    font-family: ui-monospace, 'SF Mono', 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New',
+      monospace;
     font-size: inherit;
     padding: 1em 2em;
     background-color: #bfc2c7;
